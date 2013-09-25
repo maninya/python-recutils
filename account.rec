@@ -1,0 +1,13 @@
+%rec: Account
+%key: Login
+%confidential: Password
+
+Login: foo
+Name: Mr. Foo
+Email: foo@foo.com
+Password: encrypted-AAABBBCCCDDD
+
+Login: bar
+Name: Ms. Bar
+Email: bar@bar.org
+Password: encrypted-XXXYYYZZZUUU
